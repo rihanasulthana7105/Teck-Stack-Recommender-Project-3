@@ -1,0 +1,25 @@
+role,category,popularity,description,skills
+Data Scientist,Data & AI,9,Builds statistical and machine learning models to extract insight and predict outcomes.,Python;SQL;Statistics;Machine Learning;Data Analysis;Pandas;NumPy;Scikit-learn;Data Visualization;Deep Learning
+Machine Learning Engineer,Data & AI,9,"Trains, tunes and ships machine learning models into real products.",Python;Machine Learning;Deep Learning;TensorFlow;PyTorch;Scikit-learn;Docker;Git;Algorithms;MLOps
+AI Engineer (LLM),Data & AI,10,Builds applications on top of large language models and generative AI.,Python;LLMs;Prompt Engineering;NLP;REST APIs;Deep Learning;PyTorch;Git;Docker;Cloud Computing
+NLP Engineer,Data & AI,7,Develops systems that understand and generate human language.,Python;NLP;Deep Learning;PyTorch;Machine Learning;LLMs;Statistics;Algorithms;Scikit-learn;Git
+Computer Vision Engineer,Data & AI,7,Builds models that interpret images and video.,Python;Computer Vision;Deep Learning;PyTorch;TensorFlow;NumPy;Algorithms;Machine Learning;Docker;Linux
+MLOps Engineer,Data & AI,8,"Automates deployment, monitoring and retraining of machine learning systems.",Python;MLOps;Docker;Kubernetes;CI/CD;AWS;Automation;Monitoring;Git;Cloud Computing
+Data Analyst,Data & AI,9,Turns raw data into reports and dashboards that guide decisions.,SQL;Excel;Data Analysis;Data Visualization;Tableau;Power BI;Statistics;Python;Pandas;Communication
+Business Intelligence Analyst,Data & AI,7,Designs dashboards and reporting pipelines for business teams.,SQL;Power BI;Tableau;Excel;Data Warehousing;Data Visualization;ETL;Data Analysis;Communication;Statistics
+Data Engineer,Data & AI,9,Builds the pipelines and platforms that move and store data at scale.,Python;SQL;ETL;Spark;Airflow;Kafka;Data Warehousing;AWS;Docker;PostgreSQL
+Backend Developer,Software,9,"Builds server-side logic, databases and APIs.",Python;Java;SQL;REST APIs;PostgreSQL;Git;Docker;Microservices;Data Structures;System Design
+Frontend Developer,Software,9,Builds the interactive user interface of websites and web apps.,JavaScript;TypeScript;React;HTML;CSS;Responsive Design;Git;REST APIs;Testing;UI/UX Design
+Full Stack Developer,Software,10,"Works across the frontend, backend and database of an application.",JavaScript;React;Node.js;HTML;CSS;MongoDB;SQL;REST APIs;Git;Docker
+Mobile App Developer,Software,7,Builds apps for Android and iOS devices.,Kotlin;Android;Flutter;Swift;iOS;REST APIs;Git;UI/UX Design;Data Structures;Testing
+Software Engineer,Software,10,"Designs, builds and maintains general-purpose software systems.",Data Structures;Algorithms;System Design;Git;Java;Python;Testing;Agile;SQL;Microservices
+QA Automation Engineer,Software,6,Automates software testing to catch defects early.,Testing;Selenium;Python;Automation;CI/CD;Git;Agile;REST APIs;Jenkins;SQL
+UI/UX Designer,Design,6,"Designs intuitive, attractive digital experiences.",UI/UX Design;Figma;Responsive Design;HTML;CSS;Communication;Agile;Testing
+DevOps Engineer,Cloud & Infrastructure,9,"Automates building, testing and releasing software.",Docker;Kubernetes;CI/CD;Jenkins;Linux;AWS;Terraform;Automation;Bash Scripting;Git;Python
+Cloud Engineer,Cloud & Infrastructure,9,Builds and runs applications on public cloud platforms.,AWS;Azure;Cloud Computing;Linux;Terraform;Networking;Docker;Automation;Python;Monitoring
+Cloud Architect,Cloud & Infrastructure,8,"Designs secure, scalable cloud solutions for organizations.",Cloud Computing;AWS;Azure;GCP;System Design;Networking;Cybersecurity;Microservices;Terraform;Communication
+Site Reliability Engineer,Cloud & Infrastructure,7,"Keeps large systems reliable, fast and available.",Linux;Monitoring;Kubernetes;Python;Automation;Networking;Bash Scripting;CI/CD;Cloud Computing;System Design
+System Administrator,Cloud & Infrastructure,6,"Maintains servers, networks and internal IT systems.",Linux;Bash Scripting;Networking;Automation;Monitoring;Ansible;Cybersecurity;Cloud Computing
+Cybersecurity Analyst,Security,8,Monitors systems and responds to security threats.,Cybersecurity;Networking;Linux;Monitoring;Cryptography;Python;Penetration Testing;Cloud Computing
+Penetration Tester,Security,6,Ethically hacks systems to find vulnerabilities before attackers do.,Penetration Testing;Cybersecurity;Networking;Linux;Bash Scripting;Python;Cryptography;REST APIs
+Database Administrator,Data & AI,6,"Keeps databases fast, secure and backed up.",SQL;PostgreSQL;MongoDB;Linux;Data Warehousing;Monitoring;Bash Scripting;Cybersecurity
