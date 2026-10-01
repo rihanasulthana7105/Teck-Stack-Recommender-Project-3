@@ -1,9 +1,13 @@
 """Tech Stack Recommender: DecodeLabs AI Project 3 (Streamlit web app)."""
+import os
 import streamlit as st
 import pandas as pd
 from recommender import TechStackRecommender
 
-st.set_page_config(page_title="Tech Stack Recommender", page_icon="🎯", layout="centered")
+APP_NAME = "CareerCompass"
+ICON = "icon.png" if os.path.exists("icon.png") else "🧭"   # falls back to an emoji if the file is missing
+
+st.set_page_config(page_title=APP_NAME, page_icon=ICON, layout="centered")
 
 
 @st.cache_resource
@@ -18,8 +22,8 @@ def run_evaluation(n_given):
 
 engine = load_engine()
 
-st.title("🎯 Tech Stack Recommender")
-st.caption("Tell us your skills and get the career paths that match them best. "
+st.title("🧭 " + APP_NAME)
+st.caption("Your AI-powered Tech Stack Recommender. Tell us your skills and get the career paths that match them best. "
            "Content-based filtering with TF-IDF and cosine similarity.")
 
 tab_rec, tab_scores, tab_how, tab_eval = st.tabs(["Recommend", "All roles", "How it works", "Accuracy"])

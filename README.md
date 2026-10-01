@@ -1,4 +1,4 @@
-# 🎯 Tech Stack Recommender
+# 🧭 CareerCompass: Tech Stack Recommender
 
 **DecodeLabs · Artificial Intelligence Track · Batch 2026 · Project 3: AI Recommendation Logic**
 
@@ -57,13 +57,14 @@ streamlit run app.py
 ├── app.py             # Streamlit web interface
 ├── recommender.py     # TF-IDF + cosine similarity engine
 ├── raw_skills.csv     # Roles and skills dataset
+├── icon.png           # App icon
 ├── requirements.txt
 └── README.md
 ```
 
 ## Tech stack
 Python · scikit-learn · pandas · NumPy · Streamlit
-App link:https://teck-stack-recommender-project-3-bzzfwkh2bdd77sljxkeuto.streamlit.app/
+
 ## Author
 **I. Rihana Sulthana**
 AI Intern, DecodeLabs (Batch 2026)
