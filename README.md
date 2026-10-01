@@ -64,6 +64,7 @@ streamlit run app.py
 
 ## Tech stack
 Python · scikit-learn · pandas · NumPy · Streamlit
+APP LINK:https://teck-stack-recommender-project-3-bzzfwkh2bdd77sljxkeuto.streamlit.app/
 
 ## Author
 **I. Rihana Sulthana**
